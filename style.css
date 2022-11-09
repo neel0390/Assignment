@@ -1,0 +1,48 @@
+body {
+  height: 100vh;
+  background-image: linear-gradient(to bottom, black, rgb(76, 7, 99), rgb(44, 2, 50), red, orange);
+}
+
+#img {
+  border: 1px;
+  border-radius: 50%;
+  float: right;
+}
+
+#img2 {
+  border: 1px;
+  border-radius: 20%;
+}
+
+/* .parent {
+  display: flex;
+  flex-direction: column;
+} */
+
+.div1 {
+  position: relative;
+  top: 142px;
+  left: 725px;
+}
+
+.div2 {
+  /* border: 1px;
+  border-radius: 20%; */
+  position: relative;
+  top: 150px;
+  left: 700px;
+}
+
+.div3 {
+  position: relative;
+  top: 167px;
+  left: 46px;
+  text-align: center;
+}
+
+.div4 {
+  position: relative;
+  top: 167px;
+  left: 46px;
+  text-align: center;
+}
